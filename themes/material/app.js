@@ -238,12 +238,7 @@ function file_code(path){
 <div class="mdui-container">
 <pre id="editor" ></pre>
 </div>
-/*
-<div class="mdui-textfield">
-	<label class="mdui-textfield-label">Download link</label>
-	<input class="mdui-textfield-input" type="text" value="${href}"/>
-</div>
-*/
+
   <div align="center">
        <a href='https://www.i54r.cn/ad/ad1.php'  target="_blank">
        <img  src="https://www.i54r.cn/ad/pic1.jpg" />
@@ -290,10 +285,7 @@ function file_code(path){
 function file_video(path){
 	var url = window.location.origin + path;
 	var playBtn = `
-/*      <button class="mdui-btn mdui-ripple mdui-color-theme-accent" mdui-menu="{target:'#external-player'}">
-         <i class="mdui-icon material-icons">&#xe039;</i> Play in External Player
-	  </button>
-*/
+
 	  <ul class="mdui-menu" id="external-player">`;
 	if (/(iPhone|iPad|iPod|iOS|Android)/i.test(navigator.userAgent)) {
 		playBtn += `
@@ -313,17 +305,7 @@ function file_video(path){
 	  <source src="${url}" type="video/mp4">
 	</video>
 	<br>${playBtn}
-/*	
-        <!-Fixed label->
-	<div class="mdui-textfield">
-	  <label class="mdui-textfield-label">download link</label>
-	  <input class="mdui-textfield-input" type="text" value="${url}"/>
-	</div>
-	<div class="mdui-textfield">
-	  <label class="mdui-textfield-label">HTML reference</label>
-	  <textarea class="mdui-textfield-input"><video><source src="${url}" type="video/mp4"></video></textarea>
-	</div>
-*/
+
 
   <div align="center">
        <a href='https://www.i54r.cn/ad/ad1.php'  target="_blank">
@@ -357,17 +339,7 @@ function file_audio(path){
 	  <source src="${url}"">
 	</audio>
 	<br>
-/*
-	<!-Fixed label->
-	<div class="mdui-textfield">
-	  <label class="mdui-textfield-label">Download link</label>
-	  <input class="mdui-textfield-input" type="text" value="${url}"/>
-	</div>
-	<div class="mdui-textfield">
-	  <label class="mdui-textfield-label">HTML reference</label>
-	  <textarea class="mdui-textfield-input"><audio><source src="${url}"></audio></textarea>
-	</div>
-*/
+
 
   <div align="center">
        <a href='https://www.i54r.cn/ad/ad1.php'  target="_blank">
@@ -398,21 +370,7 @@ function file_image(path){
 	<br>
 	<img class="mdui-img-fluid" src="${url}"/>
 	<br>
-/*
-	<div class="mdui-textfield">
-	  <label class="mdui-textfield-label">Download link</label>
-	  <input class="mdui-textfield-input" type="text" value="${url}"/>
-	</div>
-	<div class="mdui-textfield">
-	  <label class="mdui-textfield-label">HTML references</label>
-	  <input class="mdui-textfield-input" type="text" value="<img src='${url}' />"/>
-	</div>
-        <div class="mdui-textfield">
-	  <label class="mdui-textfield-label">Markdown Reference</label>
-	  <input class="mdui-textfield-input" type="text" value="![](${url})"/>
-	</div>
-        <br>
-*/
+
 
   <div align="center">
        <a href='https://www.i54r.cn/ad/ad1.php'  target="_blank">
