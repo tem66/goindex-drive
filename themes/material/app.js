@@ -274,7 +274,9 @@ function file_code(path){
 function file_video(path){
 	var url = window.location.origin + path;
 	var playBtn = `
-     
+      
+	playBtn += `</ul>`;
+	var content = `
 <div class="mdui-container-fluid">
 	<br>
 	<video id="player" class="mdui-video-fluid mdui-center" preload controls>
