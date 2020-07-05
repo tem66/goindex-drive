@@ -274,21 +274,8 @@ function file_code(path){
 function file_video(path){
 	var url = window.location.origin + path;
 	var playBtn = `
-      <button class="mdui-btn mdui-ripple mdui-color-theme-accent" mdui-menu="{target:'#external-player'}">
-        <i class="mdui-icon material-icons">&#xe039;</i> Play in External Player
-	  </button>
-	  <ul class="mdui-menu" id="external-player">`;
-	if (/(iPhone|iPad|iPod|iOS|Android)/i.test(navigator.userAgent)) {
-		playBtn += `
-		<li class="mdui-menu-item"><a href="intent:${url}#Intent;package=com.mxtech.videoplayer.ad;S.title=${path};end" class="mdui-ripple">MX Player</a></li>
-		<li class="mdui-menu-item"><a href="intent:${url}#Intent;package=com.mxtech.videoplayer.pro;S.title=${path};end" class="mdui-ripple">MX Player Pro</a></li>
-		<li class="mdui-menu-item"><a href="vlc://${url}" class="mdui-ripple">VLC</a></li>`;
-	}else{
-		playBtn += `
-		<li class="mdui-menu-item"><a href="potplayer://${url}" class="mdui-ripple">PotPlayer</a></li>
-		<li class="mdui-menu-item"><a href="vlc://${url}" class="mdui-ripple">VLC</a></li>`;
-	}
-	playBtn += `</ul>`;
+     
+	
 	var content = `
 <div class="mdui-container-fluid">
 	<br>
