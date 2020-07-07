@@ -84,8 +84,8 @@ function list(path){
 	content += `
 	<div id="head_md" class="mdui-typo" style="display:none;padding: 20px 0;"></div>`;
     if(search){
-        if(dark){content += `<div class="mdui-textfield"><input class="mdui-textfield-input mdui-text-color-white-text" id="searchInput" onkeyup="searchOnlyActiveDir()" type="text" placeholder="Type to search.."></input></div>`;
-        }else{content += `<div class="mdui-textfield"><input class="mdui-textfield-input" id="searchInput" onkeyup="searchOnlyActiveDir()" type="text" placeholder="输入关键词，在此文件夹内搜索"></input></div>`;}
+        if(dark){content += `<div class="mdui-textfield"><input class="mdui-textfield-input mdui-text-color-white-text" id="searchInput" onkeyup="searchOnlyActiveDir()" type="text" placeholder="输入关键词，在此文件夹内搜索..."></input></div>`;
+        }else{content += `<div class="mdui-textfield"><input class="mdui-textfield-input" id="searchInput" onkeyup="searchOnlyActiveDir()" type="text" placeholder="输入关键词，在此文件夹内搜索..."></input></div>`;}
     }
 	content += `<div class="mdui-row"> 
 	  <ul class="mdui-list"> 
