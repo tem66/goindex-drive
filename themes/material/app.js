@@ -240,17 +240,14 @@ function file_code(path){
 </div>
 
   <div align="center">
-       <a href='https://www.i54r.cn/ad/ad1.php'  target="_blank">
-       <img  src="https://www.i54r.cn/ad/pic1.jpg" />
+       <a href='http://pic.kaokew.com/ad1.php'  target="_blank">
+       <img  src="http://pic.kaokew.com/pic1.jpg" />
        </a>
           </br>
-       <a href='https://www.i54r.cn/ad/ad2.php'  target="_blank">
-       <img  src="https://www.i54r.cn/ad/pic2.jpg" />
+       <a href='http://pic.kaokew.com/ad2.php'  target="_blank">
+       <img  src="http://pic.kaokew.com/pic2.jpg" />
        </a>
-           </br>
-       <a href='https://www.i54r.cn/ad/ad3.php'  target="_blank">
-       <img  src="https://www.i54r.cn/ad/pic3.jpg" />
-       </a>
+           
   </div>
 
 <a href="${href}" class="mdui-fab mdui-fab-fixed mdui-ripple mdui-color-theme-accent"><i class="mdui-icon material-icons">file_download</i></a>
@@ -308,17 +305,14 @@ function file_video(path){
 
 
   <div align="center">
-       <a href='https://www.i54r.cn/ad/ad1.php'  target="_blank">
-       <img  src="https://www.i54r.cn/ad/pic1.jpg" />
+       <a href='http://pic.kaokew.com/ad1.php'  target="_blank">
+       <img  src="http://pic.kaokew.com/pic1.jpg" />
        </a>
           </br>
-       <a href='https://www.i54r.cn/ad/ad2.php'  target="_blank">
-       <img  src="https://www.i54r.cn/ad/pic2.jpg" />
+       <a href='http://pic.kaokew.com/ad2.php'  target="_blank">
+       <img  src="http://pic.kaokew.com/pic2.jpg" />
        </a>
-           </br>
-       <a href='https://www.i54r.cn/ad/ad3.php'  target="_blank">
-       <img  src="https://www.i54r.cn/ad/pic3.jpg" />
-       </a>
+           
   </div>
 
 </div>
@@ -342,17 +336,14 @@ function file_audio(path){
 
 
   <div align="center">
-       <a href='https://www.i54r.cn/ad/ad1.php'  target="_blank">
-       <img  src="https://www.i54r.cn/ad/pic1.jpg" />
+       <a href='http://pic.kaokew.com/ad1.php'  target="_blank">
+       <img  src="http://pic.kaokew.com/pic1.jpg" />
        </a>
           </br>
-       <a href='https://www.i54r.cn/ad/ad2.php'  target="_blank">
-       <img  src="https://www.i54r.cn/ad/pic2.jpg" />
+       <a href='http://pic.kaokew.com/ad2.php'  target="_blank">
+       <img  src="http://pic.kaokew.com/pic2.jpg" />
        </a>
-           </br>
-       <a href='https://www.i54r.cn/ad/ad3.php'  target="_blank">
-       <img  src="https://www.i54r.cn/ad/pic3.jpg" />
-       </a>
+     
   </div>
 
 </div>
@@ -373,17 +364,14 @@ function file_image(path){
 
 
   <div align="center">
-       <a href='https://www.i54r.cn/ad/ad1.php'  target="_blank">
-       <img  src="https://www.i54r.cn/ad/pic1.jpg" />
+       <a href='http://pic.kaokew.com/ad1.php'  target="_blank">
+       <img  src="http://pic.kaokew.com/pic1.jpg" />
        </a>
           </br>
-       <a href='https://www.i54r.cn/ad/ad2.php'  target="_blank">
-       <img  src="https://www.i54r.cn/ad/pic2.jpg" />
+       <a href='http://pic.kaokew.com/ad2.php'  target="_blank">
+       <img  src="http://pic.kaokew.com/pic2.jpg" />
        </a>
-           </br>
-       <a href='https://www.i54r.cn/ad/ad3.php'  target="_blank">
-       <img  src="https://www.i54r.cn/ad/pic3.jpg" />
-       </a>
+
   </div>
 
 </div>
