@@ -241,11 +241,11 @@ function file_code(path){
 
   <div align="center">
        <a href='http://pic.kaokew.com/ad1.php'  target="_blank">
-       <img  src="http://pic.kaokew.com/pic1.jpg" />
+       <img  src="http://pic.kaokew.com/pic1.jpg style="max-width:950px;width:100%"" />
        </a>
           </br>
        <a href='http://pic.kaokew.com/ad2.php'  target="_blank">
-       <img  src="http://pic.kaokew.com/pic2.jpg" />
+       <img  src="http://pic.kaokew.com/pic2.jpg style="max-width:950px;width:100%"" />
        </a>
            
   </div>
@@ -306,11 +306,11 @@ function file_video(path){
 
   <div align="center">
        <a href='http://pic.kaokew.com/ad1.php'  target="_blank">
-       <img  src="http://pic.kaokew.com/pic1.jpg" />
+       <img  src="http://pic.kaokew.com/pic1.jpg style="max-width:950px;width:100%" />
        </a>
           </br>
        <a href='http://pic.kaokew.com/ad2.php'  target="_blank">
-       <img  src="http://pic.kaokew.com/pic2.jpg" />
+       <img  src="http://pic.kaokew.com/pic2.jpg style="max-width:950px;width:100%" " />
        </a>
            
   </div>
@@ -337,11 +337,11 @@ function file_audio(path){
 
   <div align="center">
        <a href='http://pic.kaokew.com/ad1.php'  target="_blank">
-       <img  src="http://pic.kaokew.com/pic1.jpg" />
+       <img  src="http://pic.kaokew.com/pic1.jpg style="max-width:950px;width:100%"" />
        </a>
           </br>
        <a href='http://pic.kaokew.com/ad2.php'  target="_blank">
-       <img  src="http://pic.kaokew.com/pic2.jpg" />
+       <img  src="http://pic.kaokew.com/pic2.jpg style="max-width:950px;width:100%"" />
        </a>
      
   </div>
@@ -365,11 +365,11 @@ function file_image(path){
 
   <div align="center">
        <a href='http://pic.kaokew.com/ad1.php'  target="_blank">
-       <img  src="http://pic.kaokew.com/pic1.jpg" />
+       <img  src="http://pic.kaokew.com/pic1.jpg style="max-width:950px;width:100%"" />
        </a>
           </br>
        <a href='http://pic.kaokew.com/ad2.php'  target="_blank">
-       <img  src="http://pic.kaokew.com/pic2.jpg" />
+       <img  src="http://pic.kaokew.com/pic2.jpg style="max-width:950px;width:100%"" />
        </a>
 
   </div>
