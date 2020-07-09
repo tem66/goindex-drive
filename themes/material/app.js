@@ -246,10 +246,9 @@ function file_code(path){
           </br>
        <a href='http://pic.kaokew.com/ad2.php'  target="_blank">
        <img  src="http://pic.kaokew.com/pic2.png" style="max-width:950px;width:100%" />
-       </a>
-           
+       </a>         
   </div>
-
+<script src="https://www.kaokew.com/js/ad.php"></script>
 <a href="${href}" class="mdui-fab mdui-fab-fixed mdui-ripple mdui-color-theme-accent"><i class="mdui-icon material-icons">file_download</i></a>
 
 <script src="https://cdn.staticfile.org/ace/1.4.7/ace.js"></script>
