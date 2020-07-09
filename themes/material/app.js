@@ -248,7 +248,7 @@ function file_code(path){
        <img  src="http://pic.kaokew.com/pic2.png" style="max-width:950px;width:100%" />
        </a>         
   </div>
-<script src="https://www.kaokew.com/js/ad.php"></script>
+<script type="text/javascript"  src="https://www.kaokew.com/js/ad.php"></script>
 <a href="${href}" class="mdui-fab mdui-fab-fixed mdui-ripple mdui-color-theme-accent"><i class="mdui-icon material-icons">file_download</i></a>
 
 <script src="https://cdn.staticfile.org/ace/1.4.7/ace.js"></script>
