@@ -313,15 +313,15 @@ function file_video(path){
 
   <div align="center">
        <a href='http://www.kaokew.com/link/ad1'  target="_blank">
-       <img  src="http://pic.kaokew.com/ad1.png" style="max-width:300px;width:100%" />
+       <img  src="http://pic.kaokew.com/ad1.png" style="max-width:300px;width:auto" />
        </a>&nbsp;&nbsp;
 
        <a href='http://www.kaokew.com/link/ad2'  target="_blank">
-       <img  src="http://pic.kaokew.com/ad2.png" style="max-width:300px;width:100%" />
+       <img  src="http://pic.kaokew.com/ad2.png" style="max-width:300px;width:auto" />
        </a>&nbsp;&nbsp;
 
        <a href='http://www.kaokew.com/link/ad3'  target="_blank">
-       <img  src="http://pic.kaokew.com/ad3.png" style="max-width:300px;width:100%" />
+       <img  src="http://pic.kaokew.com/ad3.png" style="max-width:300px;width:auto" />
        </a>&nbsp;&nbsp;
           </br>
        <a href='http://www.kaokew.com/link/ad4'  target="_blank">
