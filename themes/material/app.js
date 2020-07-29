@@ -241,19 +241,11 @@ function file_code(path){
 
   <div align="center">
        <a href='http://www.kaokew.com/link/ad1'  target="_blank">
-       <img  src="http://pic.kaokew.com/ad1.png" style="max-width:300px;width:100%" />
-       </a>&nbsp;&nbsp;
-
-       <a href='http://www.kaokew.com/link/ad2'  target="_blank">
-       <img  src="http://pic.kaokew.com/ad2.png" style="max-width:300px;width:100%" />
-       </a>&nbsp;&nbsp;
-
-       <a href='http://www.kaokew.com/link/ad3'  target="_blank">
-       <img  src="http://pic.kaokew.com/ad3.png" style="max-width:300px;width:100%" />
-       </a>&nbsp;&nbsp;
+       <img  src="http://pic.kaokew.com/ad1.png" style="max-width:950px;width:100%" />
+       </a>
           </br>
-       <a href='http://www.kaokew.com/link/ad4'  target="_blank">
-       <img  src="http://pic.kaokew.com/ad4.png" style="max-width:950px;width:100%" />
+       <a href='http://www.kaokew.com/link/ad2'  target="_blank">
+       <img  src="http://pic.kaokew.com/ad2.png" style="max-width:950px;width:100%" />
        </a>         
   </div>
 
@@ -313,19 +305,11 @@ function file_video(path){
 
   <div align="center">
        <a href='http://www.kaokew.com/link/ad1'  target="_blank">
-       <img  src="http://pic.kaokew.com/ad1.png" style="max-width:300px;width:auto" />
-       </a>&nbsp;&nbsp;
-
-       <a href='http://www.kaokew.com/link/ad2'  target="_blank">
-       <img  src="http://pic.kaokew.com/ad2.png" style="max-width:300px;width:auto" />
-       </a>&nbsp;&nbsp;
-
-       <a href='http://www.kaokew.com/link/ad3'  target="_blank">
-       <img  src="http://pic.kaokew.com/ad3.png" style="max-width:300px;width:auto" />
-       </a>&nbsp;&nbsp;
+       <img  src="http://pic.kaokew.com/ad1.png" style="max-width:950px;width:100%" />
+       </a>
           </br>
-       <a href='http://www.kaokew.com/link/ad4'  target="_blank">
-       <img  src="http://pic.kaokew.com/ad4.png" style="max-width:950px;width:100%" />
+       <a href='http://www.kaokew.com/link/ad2'  target="_blank">
+       <img  src="http://pic.kaokew.com/ad2.png" style="max-width:950px;width:100%" />
        </a>         
   </div>
 
@@ -351,19 +335,11 @@ function file_audio(path){
 
   <div align="center">
        <a href='http://www.kaokew.com/link/ad1'  target="_blank">
-       <img  src="http://pic.kaokew.com/ad1.png" style="max-width:300px;width:100%" />
-       </a>&nbsp;&nbsp;
-
-       <a href='http://www.kaokew.com/link/ad2'  target="_blank">
-       <img  src="http://pic.kaokew.com/ad2.png" style="max-width:300px;width:100%" />
-       </a>&nbsp;&nbsp;
-
-       <a href='http://www.kaokew.com/link/ad3'  target="_blank">
-       <img  src="http://pic.kaokew.com/ad3.png" style="max-width:300px;width:100%" />
-       </a>&nbsp;&nbsp;
+       <img  src="http://pic.kaokew.com/ad1.png" style="max-width:950px;width:100%" />
+       </a>
           </br>
-       <a href='http://www.kaokew.com/link/ad4'  target="_blank">
-       <img  src="http://pic.kaokew.com/ad4.png" style="max-width:950px;width:100%" />
+       <a href='http://www.kaokew.com/link/ad2'  target="_blank">
+       <img  src="http://pic.kaokew.com/ad2.png" style="max-width:950px;width:100%" />
        </a>         
   </div>
 
@@ -386,19 +362,11 @@ function file_image(path){
 
   <div align="center">
        <a href='http://www.kaokew.com/link/ad1'  target="_blank">
-       <img  src="http://pic.kaokew.com/ad1.png" style="max-width:300px;width:100%" />
-       </a>&nbsp;&nbsp;
-
-       <a href='http://www.kaokew.com/link/ad2'  target="_blank">
-       <img  src="http://pic.kaokew.com/ad2.png" style="max-width:300px;width:100%" />
-       </a>&nbsp;&nbsp;
-
-       <a href='http://www.kaokew.com/link/ad3'  target="_blank">
-       <img  src="http://pic.kaokew.com/ad3.png" style="max-width:300px;width:100%" />
-       </a>&nbsp;&nbsp;
+       <img  src="http://pic.kaokew.com/ad1.png" style="max-width:950px;width:100%" />
+       </a>
           </br>
-       <a href='http://www.kaokew.com/link/ad4'  target="_blank">
-       <img  src="http://pic.kaokew.com/ad4.png" style="max-width:950px;width:100%" />
+       <a href='http://www.kaokew.com/link/ad2'  target="_blank">
+       <img  src="http://pic.kaokew.com/ad2.png" style="max-width:950px;width:100%" />
        </a>         
   </div>
 
