@@ -193,7 +193,15 @@ function get_file(path, file, callback){
 	}
 }
 
-
+            
+            <div  style="bottom:250px; left:20px; position:absolute;">
+              <a href="http://www.kaokew.com/link/adleft" target="_blank"><img src="http://pic.kaokew.com/adleft.png"  style="max-width:180px;width:100%" ></a>
+            </div> 
+            
+       
+            <div  style="bottom:250px; right:20px; position:absolute;">
+              <a href="http://www.kaokew.com/link/adleft" target="_blank"><img src="http://pic.kaokew.com/adright.png"  style="max-width:180px;width:100%" ></a>
+            </div>
 
 // file display ?a=view
 function file(path){
@@ -251,6 +259,16 @@ function file_code(path){
        <img  src="http://pic.kaokew.com/ad2.png" style="max-width:950px;width:100%" />
        </a>         
   </div>
+
+            
+            <div  style="bottom:250px; left:20px; position:absolute;">
+              <a href="http://www.kaokew.com/link/adleft" target="_blank"><img src="http://pic.kaokew.com/adleft.png"  style="max-width:180px;width:100%" ></a>
+            </div> 
+            
+       
+            <div  style="bottom:250px; right:20px; position:absolute;">
+              <a href="http://www.kaokew.com/link/adleft" target="_blank"><img src="http://pic.kaokew.com/adright.png"  style="max-width:180px;width:100%" ></a>
+            </div>
 
 <a href="${href}" class="mdui-fab mdui-fab-fixed mdui-ripple mdui-color-theme-accent"><i class="mdui-icon material-icons">file_download</i></a>
 
