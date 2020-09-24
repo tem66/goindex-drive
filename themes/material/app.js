@@ -7,17 +7,6 @@ document.write('<style>.mdui-appbar .mdui-toolbar{height:56px;font-size:1pc}.mdu
 if(dark){document.write('<style>* {box-sizing: border-box}body{color:rgba(255,255,255,.87);background-color:#333232}.mdui-theme-primary-'+main_color+' .mdui-color-theme{background-color:#232427!important}</style>');}
 
 
-        
-
-       //左侧广告 
-            <div  style="bottom:250px; left:20px; position:absolute;">
-              <a href="http://www.kaokew.com/link/adleft" target="_blank"><img src="http://pic.kaokew.com/adleft.png"  style="max-width:180px;width:100%" ></a>
-            </div> 
-          
-       //右侧广告
-            <div  style="bottom:250px; right:20px; position:absolute;">
-              <a href="http://www.kaokew.com/link/adleft" target="_blank"><img src="http://pic.kaokew.com/adright.png"  style="max-width:180px;width:100%" ></a>
-            
 
 // Initialize the page and load the necessary resources
 function init(){
